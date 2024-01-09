@@ -40,7 +40,7 @@ The following websites are present in this repository.
 ### Showcase
 - Image 1:
 
-![Image 1](https://github.com/KaosElegent/Web-Adventures/tree/main/A-Silent-Voice/showcase/asv1.png?raw=true)
+![Image 1](https://github.com/KaosElegent/Web-Adventures/blob/main/A-Silent-Voice/showcase/asv1.png?raw=true)
 
 - Image 2:
 
