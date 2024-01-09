@@ -40,15 +40,15 @@ The following websites are present in this repository.
 ### Showcase
 - Image 1:
 
-![Image 1](https://github.com/KaosElegent/web-adventures/blob/main/a-silent-voice/showcase/asv1.png?raw=true)
+![Image 1](https://github.com/KaosElegent/web-adventures/blob/main/A-Silent-Voice/showcase/asv1.png?raw=true)
 
 - Image 2:
 
-![Image 2](https://github.com/KaosElegent/web-adventures/blob/main/a-silent-voice/showcase/asv2.png?raw=true)
+![Image 2](https://github.com/KaosElegent/web-adventures/blob/main/A-Silent-Voice/showcase/asv2.png?raw=true)
 
 - Image 3:
 
-![Image 3](https://github.com/KaosElegent/web-adventures/blob/main/a-silent-voice/showcase/asv3.png?raw=true)
+![Image 3](https://github.com/KaosElegent/web-adventures/blob/main/A-Silent-Voice/showcase/asv3.png?raw=true)
 
 ## Listen Up
 - This website is a very basic music application where I wanted to revisit basic CSS styling but this time using classes.
@@ -57,15 +57,15 @@ The following websites are present in this repository.
 ### Showcase
 - Image 1:
 
-![Image 1](https://github.com/KaosElegent/web-adventures/blob/main/music-app/showcase/lu1.png?raw=true)
+![Image 1](https://github.com/KaosElegent/web-adventures/blob/main/Listen-Up/showcase/lu1.png?raw=true)
 
 - Image 2:
 
-![Image 2](https://github.com/KaosElegent/web-adventures/blob/main/music-app/showcase/lu2.png?raw=true)
+![Image 2](https://github.com/KaosElegent/web-adventures/blob/main/Listen-Up/showcase/lu2.png?raw=true)
 
 - Image 3:
 
-![Image 3](https://github.com/KaosElegent/web-adventures/blob/main/music-app/showcase/lu3.png?raw=true)
+![Image 3](https://github.com/KaosElegent/web-adventures/blob/main/Listen-Up/showcase/lu3.png?raw=true)
 
 
 # Notes
