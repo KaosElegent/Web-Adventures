@@ -44,11 +44,11 @@ The following websites are present in this repository.
 
 - Image 2:
 
-![Image 2](https://github.com/KaosElegent/web-adventures/blob/main/A-Silent-Voice/showcase/asv2.png?raw=true)
+![Image 2](https://github.com/KaosElegent/Web-Adventures/blob/main/A-Silent-Voice/showcase/asv2.png?raw=true)
 
 - Image 3:
 
-![Image 3](https://github.com/KaosElegent/web-adventures/blob/main/A-Silent-Voice/showcase/asv3.png?raw=true)
+![Image 3](https://github.com/KaosElegent/Web-Adventures/blob/main/A-Silent-Voice/showcase/asv3.png?raw=true)
 
 ## Listen Up
 - This website is a very basic music application where I wanted to revisit basic CSS styling but this time using classes.
